@@ -14,6 +14,7 @@ For best result and to speed up the process, Windowed Mode is recomemed to be us
 The script automatically saves the cars settings.
 
 The instruction for actually using it: (if you need to terminated use windows "exit" button)
+run the GTA_HornZ.exe in the dist folder
 
 1# Pick the CLASS you want to change the horns for.
 2# The horn you want to select what PAGE & ROW it's in (Ex. PAGE 4, ROW 9 for San Andreas horn).
