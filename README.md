@@ -6,7 +6,9 @@ Google Doc Download Link https://drive.google.com/drive/folders/16vOY-Ddt9pUQ4yd
 
 Instructions are fairly simple but have to be done for it to work properly.
 
+
 FiveM icon needs to be placed in the 5th slot on the taskbar.  ( Windows logo being the first, will only work with task bar is on the bottom ) 
+Hop into testing or an empty server. 
 
 !! Before runing the program for the first time you need to open the F6 menu and have it selected on vehicle. !!
 !! You only need to do this one time after it will work as intented. !!
